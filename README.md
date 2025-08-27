@@ -17,16 +17,15 @@ It supports addition, subtraction, multiplication, and division with a clean UI.
 
 ## Project Structure
 
-├── index.html   # Main calculator UI
-├── style.css    # Styling for calculator
-├── script.js    # Calculator logic (button clicks, evaluation)
-└── Assets/      # Icons (favicon, optional images)
+├── index.html   # Main calculator UI<br>
+├── style.css    # Styling for calculator<br>
+├── script.js    # Calculator logic (button clicks, evaluation)<br>
+└── Assets/      # Icons (favicon, optional images)<br>
 
 ## Demo
-![Calculator Screenshot](Assets/calculator-screenshot.png)  <!-- (optional, add screenshot if available) -->
+![Calculator Screenshot](Assets/calculator-screenshot.png)  
 
 ---
 Made with ❤️ using HTML, CSS & JavaScript.
 
 
-⸻
